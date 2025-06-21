@@ -16,7 +16,7 @@ const DashboardLayout = ({ children }) => {
             {children}
           </WebCamContext.Provider>
         </div>
-        <Footer/>
+       
     </div>
   );
 };
