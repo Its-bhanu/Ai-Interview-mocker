@@ -51,13 +51,13 @@ function Header() {
         >
           <Link href="/dashboard/Questions">Questions</Link>
         </li> */}
-        <li
+        {/* <li
           className={`hover:text-primary hover:font-bold transition-all cursor-pointer ${
             path === '/dashboard/contact' ? 'text-primary font-bold' : ''
           }`}
         >
           <Link href="/dashboard/contact">Contact Us</Link>
-        </li>
+        </li> */}
         <li
           className={`hover:text-primary hover:font-bold transition-all cursor-pointer ${
             path === '/dashboard/howit' ? 'text-primary font-bold' : ''

@@ -18,7 +18,7 @@ const Footer = () => {
           {/* <Link href="/profile" className="hover:underline">Profile</Link> */}
           {/* <Link href="/settings" className="hover:underline">Settings</Link> */}
           
-          <Link href='/dashboard/contact' className='hover:underline'>Contact US</Link>
+          {/* <Link href='/dashboard/contact' className='hover:underline'>Contact US</Link> */}
           <Link href="/dashboard/howit" className="hover:underline">How It</Link>
         </div>
       </div>
